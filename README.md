@@ -19,6 +19,7 @@
 3. Зарегистрируйте gitlab-runner для этого проекта и запустите его в режиме Docker. Раннер можно регистрировать и запускать на той же виртуальной машине, на которой запущен GitLab.
 ![alt text](https://github.com/masterchoo495/8-03/blob/main/img003.png)
 
+Раннер в Гитлабе:  
 ![alt text](https://github.com/masterchoo495/8-03/blob/main/img004.png)
 
 ---
@@ -48,8 +49,10 @@
 3. Создайте .gitlab-ci.yml, описав в нём все необходимые, на ваш взгляд, этапы.
 ![alt text](https://github.com/masterchoo495/8-03/blob/main/img009-1.png)
 
+Файл .gitlab-ci.yml в репозитории:  
 ![alt text](https://github.com/masterchoo495/8-03/blob/main/img009.png)
 
+Успешно собранные сборки:  
 ![alt text](https://github.com/masterchoo495/8-03/blob/main/img010.png)
 
 ---
